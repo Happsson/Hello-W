@@ -4,10 +4,10 @@
 // - extern variable definitions
 // In the appropriate section
 
-#ifndef Test_H_
-#define Test_H_
+#ifndef _Skola_H_
+#define _Skola_H_
 #include "Arduino.h"
-//add your includes for the project Test here
+//add your includes for the project Skola here
 
 
 //end of add your includes here
@@ -20,10 +20,10 @@ void setup();
 } // extern "C"
 #endif
 
-//add your function definitions for the project Test here
+//add your function definitions for the project Skola here
 
 
 
 
 //Do not add code below this line
-#endif /* Test_H_ */
+#endif /* _Skola_H_ */
